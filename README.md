@@ -1,3 +1,3 @@
 seasonal-sales project
 
-juno
+juno's project
